@@ -10,5 +10,5 @@ NOTE - This project was done when I was in class 10th (i.e., in October 2019) an
 
 A new, better, and updated version of FARMLYNK with useful features will soon be published on my GitHub profile!!
 
-# Update - Updated code of FARMLYNK (supporting Blynk 2.0) has been added to the repository with all features included in legacy version.
+## Update - Updated code of FARMLYNK (supporting Blynk 2.0) has been added to the repository with all features included in legacy version.
 
